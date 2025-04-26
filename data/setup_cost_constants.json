@@ -1,0 +1,15 @@
+{
+  "inverter": 15.52685,
+  "mounting": 6.166667,
+  "dc_db": 1.733333,
+  "ac_db": 1.55,
+  "dc_cable": 1.644444,
+  "ac_cable": 1.527778,
+  "earthing_kit": 2.916667,
+  "lightning_arrester": 2.222222,
+  "connectors": 1.322222,
+  "cable_ties": 0.877778,
+  "installation_accessories": 1.055556,
+  "labour_and_installation": 5.333333,
+  "net_meter": 5000
+}

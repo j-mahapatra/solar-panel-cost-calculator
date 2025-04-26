@@ -1,0 +1,42 @@
+{
+  "panel_efficiency": {
+    "without_subsidy": 0.22007,
+    "with_subsidy": 0.212317
+  },
+  "temperature_coefficient": {
+    "without_subsidy": -0.003,
+    "with_subsidy": -0.0035
+  },
+  "panel_area": {
+    "without_subsidy": 27.8059,
+    "with_subsidy": 27.7571
+  },
+  "panel_area_m2": {
+    "without_subsidy": 2.5832,
+    "with_subsidy": 2.5787
+  },
+  "panel_weight": {
+    "without_subsidy": 33.4,
+    "with_subsidy": 33
+  },
+  "panel_wp": {
+    "without_subsidy": 565,
+    "with_subsidy": 545
+  },
+  "co2_emission_factor": {
+    "without_subsidy": 0.716,
+    "with_subsidy": 0.716
+  },
+  "inverter_efficiency": {
+    "without_subsidy": 0.97,
+    "with_subsidy": 0.97
+  },
+  "installation_quality_factor": {
+    "without_subsidy": 0.98,
+    "with_subsidy": 0.98
+  },
+  "single_panel_costs": {
+    "without_subsidy": 8757.5,
+    "with_subsidy": 13897.5
+  }
+}
